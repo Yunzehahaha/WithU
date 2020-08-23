@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WithU</string>
+    <string name="app_label">WithYouEveryDay</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="position">position</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="click_here_to_sign_up">Click here to sign up</string>
+    <string name="logout">logout</string>
+    <string name="profile">profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
